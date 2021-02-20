@@ -1,5 +1,6 @@
 # My Portfolio
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![portfoliosite](https://user-images.githubusercontent.com/68027063/108604144-a0ba6180-7371-11eb-920d-087420519c39.png)
   https://nlmdev.web.app/
   
   
@@ -22,7 +23,7 @@
   
   ## About
   
-  This a the repo for my lovely portfolio site.
+  This a the repo for my lovely portfolio site. This site was made using react.js, and materiaul UI.
   
   ## Installation
   
